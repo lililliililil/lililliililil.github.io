@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="search.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>search</title>
+    <script src="https://kit.fontawesome.com/191df7ee68.js" crossorigin="anonymous"></script>
+    <script src="search.js" defer></script>
+</head>
+<body>
+    <div class="search-container">
+        <div class="wrap">
+            <div class="search">
+               <input type="text" class="searchTerm" placeholder="Search something!" maxlength="30" name="search" id="search-input">
+               <button type="submit" class="searchButton" onclick="search()">
+                 <i class="fa fa-search"></i>
+              </button>
+            </div>
+        </div>
+    </div>
+
+    <div id="search-results">
+        <!-- 검색 결과를 여기에 표시하세요 -->
+    </div>
+    
+    <nav class="navbar">
+        <div class="navbar__logo">
+            <i class="fa-solid fa-b"></i>
+            <a href="../index.html">barcode</a>
+        </div>
+
+        <ul class="navbar__menu">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="">Progect</a></li>
+            <li><a href="">SNS</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Search</a></li>
+        </ul>
+
+        <ul class="navbar__icons">
+            <li><i class="fa-brands fa-discord"></i></li>
+            <li><i class="fa-brands fa-github"></i></li>
+        </ul>
+        <a href="#" class="navbar__toogleBtn">
+            <i class="fas fa-bars"></i>
+        </a>
+    </nav>
+</body>
+</html>
