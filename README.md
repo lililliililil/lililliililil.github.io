@@ -1,5 +1,5 @@
 <h1>This is barcode website!</h1>
 
-<button>MIT LISENCE</button>
+<button>MIT LICENCE</button>
 
 (c) barcode
