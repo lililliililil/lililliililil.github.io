@@ -1,5 +1,7 @@
 <h1>This is barcode website!</h1>
 
-<button>MIT LICENCE</button>
+MIT LICENCE
 
-(c) barcode
+
+
+(c) 2024 barcode all right reserved
