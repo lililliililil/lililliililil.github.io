@@ -2,6 +2,6 @@
 
 MIT LICENCE
 
-Go https:lililliililil.kro.kr to find out what
+Go https:lililliililil.kro.kr to find out what I'd made!
 
 (c) 2024 barcode all right reserved
