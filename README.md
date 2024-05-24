@@ -4,6 +4,6 @@ MIT LICENCE
 
 Go https://lililliililil.kro.kr to find out what I'd made!
 
-<p text-align=center>Find error in nav bar(search tab)</p>
+Find error in nav bar(search tab)
 
 (c) 2024 barcode all right reserved
